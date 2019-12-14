@@ -1,1 +1,1 @@
-# SamSeidenberg.github.io
+# samseidenberg.github.io
